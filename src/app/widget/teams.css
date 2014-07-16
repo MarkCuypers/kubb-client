@@ -1,0 +1,16 @@
+.kubbTeams .teamsGridNode {
+    height: auto;
+}
+
+.kubbTeams .teamsGridNode .dgrid-scroller {
+    position: relative;
+    overflow: visible;
+}
+
+.kubbTeams .dgrid-scroller {
+    margin-top: 36px !important;
+}
+
+.kubbTeams .filter {
+    margin-bottom: 1em;
+}

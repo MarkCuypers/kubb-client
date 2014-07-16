@@ -1,0 +1,46 @@
+.kubbApp {
+    position: absolute;
+    top: 3em;
+    bottom: 3em;
+    left: 3em;
+    right: 3em;
+    border: 1px solid silver;
+    box-shadow: 0 0 5px silver;
+    -webkit-box-shadow: 0 0 5px silver;
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 255, 1);
+    padding: 2em;
+    background-color: #FFF;
+}
+
+.kubbApp nav {
+    display: block;
+    height: 4ex;
+    line-height: 4ex;
+}
+
+.kubbApp nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.kubbApp nav ul li {
+    float: left;
+    height: 4ex;
+    line-height: 4ex;
+    margin: 0 3em 0 0;
+    padding: 0;
+}
+
+.kubbApp .contentWrapper {
+    overflow-y: auto;
+    position: absolute;
+    bottom: 1ex;
+    top: 20ex;
+    left: 2em;
+    right: 2em;
+}
+
+.kubbApp .content {
+    position: relative;
+}
