@@ -1,6 +1,3 @@
-[submodule "src/lib/dbootstrap"]
-	path = src/lib/dbootstrap
-	url = https://github.com/thesociable/dbootstrap.git
 [submodule "src/lib/xstyle"]
 	path = src/lib/xstyle
 	url = https://github.com/kriszyp/xstyle.git
